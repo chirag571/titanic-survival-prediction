@@ -1,3 +1,5 @@
+Machine Learning project using Logistic Regression for Titanic survival prediction.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chirag571/titanic-survival-prediction/blob/main/Titanic_Survival_Prediction.ipynb)
 
 # 🚢 Titanic Survival Prediction
